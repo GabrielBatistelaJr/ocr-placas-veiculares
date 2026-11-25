@@ -1,0 +1,22 @@
+RESULTADOS - TESSERACT OCR
+=================================================================
+1.JPG    | Final: TER4T55         | Formato valido: True  | Otsu: - | Adapt: TER4T55 | CLAHE: - | Eq: D5
+2.JPG    | Final: NEV4C65         | Formato valido: True  | Otsu: NEV1ICG8 | Adapt: NEV4C65 | CLAHE: NEV1C68 | Eq: NEV1CU5
+3.JPG    | Final: SELEE55         | Formato valido: False | Otsu: 2 | Adapt: SELEE55 | CLAHE: - | Eq: -
+4.JPG    | Final: NAO_RECONHECIDO | Formato valido: False | Otsu: - | Adapt: - | CLAHE: - | Eq: -
+5.JPG    | Final: VSI             | Formato valido: False | Otsu: - | Adapt: VSI | CLAHE: - | Eq: -
+6.JPG    | Final: TYL5K75         | Formato valido: True  | Otsu: D | Adapt: TYL5K75 | CLAHE: TYL3X75 | Eq: TVL475
+7.JPG    | Final: FAU1J96         | Formato valido: True  | Otsu: FAU1J96 | Adapt: HAU1J06 | CLAHE: FAU1J96 | Eq: FAULTY
+8.JPG    | Final: AHY0U20         | Formato valido: True  | Otsu: - | Adapt: AHY0U20 | CLAHE: XHY6GU29 | Eq: XHY6U29
+9.JPG    | Final: EELEPE          | Formato valido: False | Otsu: EELEPE | Adapt: SURYO | CLAHE: BULEDE | Eq: -
+10.JPG   | Final: PBU7E22         | Formato valido: True  | Otsu: PBU7E22 | Adapt: BRU2GP2 | CLAHE: PDU7E22 | Eq: BA76Z72
+11.JPG   | Final: MNL5U98         | Formato valido: True  | Otsu: MNL5U98 | Adapt: MALS98 | CLAHE: MNL5U98 | Eq: MNE5H98
+12.JPG   | Final: JET7G688        | Formato valido: False | Otsu: JET7G688 | Adapt: - | CLAHE: JET7G688 | Eq: YJET7G88
+13.JPG   | Final: NABPSQ89        | Formato valido: False | Otsu: NABPSQ89 | Adapt: - | CLAHE: - | Eq: -
+14.JPG   | Final: PHL5HUU         | Formato valido: False | Otsu: PHL5HUU | Adapt: PL | CLAHE: PHL0HUU | Eq: -
+15.JPG   | Final: THY2E19         | Formato valido: True  | Otsu: THY2E19 | Adapt: - | CLAHE: THY2E19 | Eq: EEST
+16.JPG   | Final: WAK5O55         | Formato valido: True  | Otsu: AWAK5S055 | Adapt: WAK5O55 | CLAHE: AWK5O55 | Eq: -
+17.JPG   | Final: NZQ5M27         | Formato valido: True  | Otsu: NZQ5M27 | Adapt: - | CLAHE: NZQ5M77 | Eq: QSN77
+18.JPG   | Final: XDA5E56         | Formato valido: True  | Otsu: XDA5SESBE | Adapt: KBA5E5E | CLAHE: XDA5E56 | Eq: -
+19.JPG   | Final: SL4L7O          | Formato valido: False | Otsu: - | Adapt: - | CLAHE: SL4L7O | Eq: ACVAR
+20.JPG   | Final: JGG1L7          | Formato valido: False | Otsu: - | Adapt: TG | CLAHE: JGG1L7 | Eq: G1L

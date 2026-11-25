@@ -1,0 +1,22 @@
+RESULTADOS - EASYOCR
+=================================================================
+1.JPG    | Final: IFA1T95         | Confianca: 0.92 | Formato valido: True  | faixa_colorida: IFA1T95 | clahe_otsu: IFI | otsu: IFI | equalizada: IFA15
+2.JPG    | Final: NEV1C08         | Confianca: 0.98 | Formato valido: True  | faixa_colorida: NEV1C08 | clahe_otsu: NEV1C08 | otsu: NEV1C08 | equalizada: NEV1GU8
+3.JPG    | Final: IYL2L18         | Confianca: 0.48 | Formato valido: True  | faixa_colorida: IYZ2L2 | clahe_otsu: IYLZL9 | otsu: IYL2L18 | equalizada: IYL2L10
+4.JPG    | Final: QON0N62         | Confianca: 0.37 | Formato valido: True  | faixa_colorida: QOW5N47 | clahe_otsu: QON0N62 | otsu: QOLPN42 | equalizada: QOWCN47
+5.JPG    | Final: OILC71E         | Confianca: 0.03 | Formato valido: False | faixa_colorida: OILC71E | clahe_otsu: LX7ZY | otsu: - | equalizada: -
+6.JPG    | Final: TYL3X75         | Confianca: 0.50 | Formato valido: True  | faixa_colorida: TYL3X75 | clahe_otsu: TYL3X75 | otsu: - | equalizada: TMI75
+7.JPG    | Final: AAA2U95         | Confianca: 0.27 | Formato valido: True  | faixa_colorida: 1W2J95 | clahe_otsu: AAA2U95 | otsu: AAA2U95 | equalizada: IAUETYH
+8.JPG    | Final: XHY6A29         | Confianca: 0.75 | Formato valido: True  | faixa_colorida: XHY6U29 | clahe_otsu: XHV6I29 | otsu: - | equalizada: XHY6A29
+9.JPG    | Final: AOA4J16         | Confianca: 0.88 | Formato valido: True  | faixa_colorida: AOA4J16 | clahe_otsu: AOA4J16 | otsu: AOA4J16 | equalizada: AOA4J16
+10.JPG   | Final: PDU7G22         | Confianca: 0.82 | Formato valido: True  | faixa_colorida: PDU7G22 | clahe_otsu: PPU7G22 | otsu: PDU2S22 | equalizada: Y47G22
+11.JPG   | Final: MNL3U98         | Confianca: 0.93 | Formato valido: True  | faixa_colorida: MNL3U98 | clahe_otsu: MNL3U98 | otsu: MNL3U98 | equalizada: MNC2A98
+12.JPG   | Final: JET7G88         | Confianca: 1.00 | Formato valido: True  | faixa_colorida: JET7G88 | clahe_otsu: JET7G88 | otsu: JET7G88 | equalizada: JT7G88
+13.JPG   | Final: ABP8O89         | Confianca: 0.87 | Formato valido: True  | faixa_colorida: ABP8O89 | clahe_otsu: ABP8O89 | otsu: ABP8O82 | equalizada: ABP80820
+14.JPG   | Final: PHL8HU0         | Confianca: 0.31 | Formato valido: False | faixa_colorida: P8HIO | clahe_otsu: PW800 | otsu: PH8H0O | equalizada: PHL8HU0
+15.JPG   | Final: THY2E19         | Confianca: 0.96 | Formato valido: True  | faixa_colorida: THY2EJ9 | clahe_otsu: THY2E19 | otsu: THY2E19 | equalizada: THYZL9
+16.JPG   | Final: WHK5O55         | Confianca: 0.71 | Formato valido: True  | faixa_colorida: WAK5O55 | clahe_otsu: WHK5O55 | otsu: ORWHK5055 | equalizada: WHKSOI
+17.JPG   | Final: NZQ3M77         | Confianca: 0.65 | Formato valido: True  | faixa_colorida: NZQ3M77 | clahe_otsu: NZQ3M77 | otsu: NZQ3M77 | equalizada: 0WZ7
+18.JPG   | Final: XDA5E50         | Confianca: 0.87 | Formato valido: True  | faixa_colorida: XDA5E50 | clahe_otsu: XDA5E50 | otsu: XDA5E50 | equalizada: XDA5E50
+19.JPG   | Final: ESI4I95         | Confianca: 0.91 | Formato valido: True  | faixa_colorida: ESI4IY5 | clahe_otsu: ESI4I95 | otsu: ESI4I95 | equalizada: 37496
+20.JPG   | Final: TGG1V44         | Confianca: 0.55 | Formato valido: True  | faixa_colorida: TGG4I45 | clahe_otsu: TGG1V44 | otsu: T66144 | equalizada: TIG6
